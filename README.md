@@ -1,1 +1,2 @@
-# An application that allows college users to track their daily and weekly expenses such as textbooks with ease. Implemented with JavaScript, HTML, and CSS.
+# College Expense List 
+Written in JavaScript, HTML, and CSS. An app user is able to track their daily and weekly expenses with ease.
